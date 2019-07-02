@@ -71,6 +71,11 @@ h2, h4, h5 {
   /*background-color: #dad1c8;*/
 }
 
+footer {
+  margin-top: 20em;
+  font-size: 0.8em;
+}
+
 .vertical {
   float: right;
   transform: rotate(90deg);
