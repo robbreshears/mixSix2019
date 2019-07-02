@@ -71,8 +71,8 @@ h2, h4, h5 {
   /*background-color: #dad1c8;*/
 }
 
-footer {
-  margin-top: 15em;
+.foot {
+  margin-top: 5rem;
   font-size: 0.8em;
 }
 
