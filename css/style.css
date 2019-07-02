@@ -27,6 +27,12 @@ h1 {
   padding: 20px;
 }
 
+@media (max-width: 767px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
 h3 {
   color: #541D19;
   font-family: 'Ubuntu', sans-serif;
@@ -51,6 +57,10 @@ h2, h4, h5 {
   padding: 10px;
 }
 
+.card {
+  padding-top: 3px;
+}
+
 .card-title {
   text-align: center;
   color: #541D19;
@@ -67,6 +77,9 @@ h2, h4, h5 {
   transform-origin: left top 0;
 }
 
+#btn-rob {
+  color: #541D19;
+}
 
 .btn, .form-control {
   outline: none;
